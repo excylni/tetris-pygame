@@ -1,0 +1,7 @@
+# Ignored files
+__pycache__
+*.pyc 
+.env
+.DS_Store
+Tetris.app
+.history
